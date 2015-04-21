@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8B46024E-8520-4BA9-AA73-DC42C47AF234</string>
+	<key>IDESourceControlProjectName</key>
+	<string>playground</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CEFB2BD786EB2581EE10A96E212E22F77B009355</key>
+		<string>github.com:DeLongShot/swift_screencasts.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ComputedPropertiesPlayground.playground/playground.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CEFB2BD786EB2581EE10A96E212E22F77B009355</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:DeLongShot/swift_screencasts.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CEFB2BD786EB2581EE10A96E212E22F77B009355</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CEFB2BD786EB2581EE10A96E212E22F77B009355</string>
+			<key>IDESourceControlWCCName</key>
+			<string>swift_screencasts</string>
+		</dict>
+	</array>
+</dict>
+</plist>
